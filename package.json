@@ -1,0 +1,16 @@
+{
+  "name": "Express Static Page",
+  "version": "1.0.0",
+  "description": "Express Static Page",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.10.1",
+    "node": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Kim",
+  "license": "ISC"
+}
